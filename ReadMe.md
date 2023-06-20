@@ -6,25 +6,25 @@ Este relatório contém quatro páginas: Overview, Visão por Linhas, Visão por
 
 A página mostra os principais indicadores de desempenho do sistema de transporte público, como o número total de passageiros, a receita bruta, a taxa de ocupação e o índice de satisfação dos usuários. Também mostra a evolução desses indicadores ao longo dos anos e a comparação com outras estações.
 
-![Overview](https://example.com/overview.png)
+![Overview](Imagens/Overview.png)
 
 ## Visão por Linhas
 
 A página mostra o detalhamento dos indicadores por linha do sistema de transporte público, como o número de passageiros. Também mostra a distribuição dos passageiros por linha.
 
-![Visão por Linhas](https://example.com/visao_por_linhas.png)
+![Visão por Linhas](https://github.com/Patrick-Barbosa/MetroRJ/blob/main/Imagens/Vis%C3%A3o%20por%20Linhas.png?raw=true)
 
 ## Visão por Estações
 
 A paágina mostra o detalhamento dos indicadores por estação do sistema de transporte público.
 
-![Visão por Estações](https://example.com/visao_por_estacoes.png)
+![Visão por Estações](https://github.com/Patrick-Barbosa/MetroRJ/blob/main/Imagens/Vis%C3%A3o%20por%20Esta%C3%A7%C3%B5es.png?raw=true)
 
 ## Extração de Dados
 
 A página de extração de dados permite exportar os dados do relatório em formato CSV ou Excel, com a possibilidade de filtrar os dados por ano, mês, linha ou estação.
 
-![Extração de Dados](https://example.com/extracao_de_dados.png)
+![Extração de Dados](https://github.com/Patrick-Barbosa/MetroRJ/blob/main/Imagens/Extra%C3%A7%C3%A3o%20de%20Dados.png?raw=true)
 
 ## Análises Adicionais
 
